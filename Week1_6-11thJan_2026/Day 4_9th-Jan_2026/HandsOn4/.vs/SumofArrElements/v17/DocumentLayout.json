@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\handson4\\sumofarrelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|solutionrelative:sumofarrelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\handson4\\sumofarrelements.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|solutionrelative:sumofarrelements.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\handson4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67B9F4B-AFDE-4036-9A11-99916995262B}|SumofArrElements.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumofArrElements",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\SumofArrElements.csproj",
+              "RelativeDocumentMoniker": "SumofArrElements.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\SumofArrElements.csproj",
+              "RelativeToolTip": "SumofArrElements.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T18:55:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumofArrElements.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\SumofArrElements.cs",
+              "RelativeDocumentMoniker": "SumofArrElements.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\SumofArrElements.cs",
+              "RelativeToolTip": "SumofArrElements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:45:58.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\HandsOn4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:45:37.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

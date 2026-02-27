@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\arrsearch\\arrsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|solutionrelative:arrsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\arrsearch\\arrsearch.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|solutionrelative:arrsearch.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 4_9th-jan_2026\\arrsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC584BA-FF9D-4D59-A226-6840CE92F957}|ArrSearch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrSearch",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\ArrSearch.csproj",
+              "RelativeDocumentMoniker": "ArrSearch.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\ArrSearch.csproj",
+              "RelativeToolTip": "ArrSearch.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T21:13:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\ArrSearch.cs",
+              "RelativeDocumentMoniker": "ArrSearch.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\ArrSearch.cs",
+              "RelativeToolTip": "ArrSearch.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:24:52.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 4_9th-Jan_2026\\ArrSearch\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T20:24:27.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

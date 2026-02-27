@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 3_8th-jan_2026\\handson1\\greatestinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|solutionrelative:greatestinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 3_8th-jan_2026\\handson1\\greatestinteger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|solutionrelative:greatestinteger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week1_6-11th jan_2026\\day 3_8th-jan_2026\\handson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4D0BD8-118E-41C9-BF68-EE88E35C086D}|GreatestInteger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreatestInteger",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\GreatestInteger.csproj",
+              "RelativeDocumentMoniker": "GreatestInteger.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\GreatestInteger.csproj",
+              "RelativeToolTip": "GreatestInteger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T04:20:58.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreatestInteger.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\GreatestInteger.cs",
+              "RelativeDocumentMoniker": "GreatestInteger.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\GreatestInteger.cs",
+              "RelativeToolTip": "GreatestInteger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:20:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week1_6-11th Jan_2026\\Day 3_8th-Jan_2026\\HandsOn1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:19:23.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
