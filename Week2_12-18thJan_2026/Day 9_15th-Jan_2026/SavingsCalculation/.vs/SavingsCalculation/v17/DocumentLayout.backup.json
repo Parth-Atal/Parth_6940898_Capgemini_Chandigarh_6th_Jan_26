@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\savingscalculation\\calculatesavings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|solutionrelative:calculatesavings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\savingscalculation\\savingscalculation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|solutionrelative:savingscalculation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\savingscalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A5BAA6-991E-4A98-BC24-F0368B5429FC}|SavingsCalculation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsCalculation",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\SavingsCalculation.csproj",
+              "RelativeDocumentMoniker": "SavingsCalculation.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\SavingsCalculation.csproj",
+              "RelativeToolTip": "SavingsCalculation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T10:26:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateSavings.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\CalculateSavings.cs",
+              "RelativeDocumentMoniker": "CalculateSavings.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\CalculateSavings.cs",
+              "RelativeToolTip": "CalculateSavings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:14:19.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\SavingsCalculation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:13:12.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgofMultof5", "AvgofMultof5.csproj", "{EA059E94-AD6A-44D3-9876-DC5C29EB988C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA059E94-AD6A-44D3-9876-DC5C29EB988C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA059E94-AD6A-44D3-9876-DC5C29EB988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA059E94-AD6A-44D3-9876-DC5C29EB988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA059E94-AD6A-44D3-9876-DC5C29EB988C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E400B956-1A59-492B-BB4B-37149613015A}
+	EndGlobalSection
+EndGlobal

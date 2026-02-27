@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 7_13th-jan_2026\\removenegandsort\\removenegativearr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|solutionrelative:removenegativearr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 7_13th-jan_2026\\removenegandsort\\removenegandsort.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|solutionrelative:removenegandsort.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 7_13th-jan_2026\\removenegandsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8186F0-B07F-4EFB-8A45-1FD062FA9265}|RemoveNegAndSort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveNegAndSort",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\RemoveNegAndSort.csproj",
+              "RelativeDocumentMoniker": "RemoveNegAndSort.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\RemoveNegAndSort.csproj",
+              "RelativeToolTip": "RemoveNegAndSort.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T06:05:48.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveNegativeArr.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\RemoveNegativeArr.cs",
+              "RelativeDocumentMoniker": "RemoveNegativeArr.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\RemoveNegativeArr.cs",
+              "RelativeToolTip": "RemoveNegativeArr.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:04:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 7_13th-Jan_2026\\RemoveNegAndSort\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:01:18.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

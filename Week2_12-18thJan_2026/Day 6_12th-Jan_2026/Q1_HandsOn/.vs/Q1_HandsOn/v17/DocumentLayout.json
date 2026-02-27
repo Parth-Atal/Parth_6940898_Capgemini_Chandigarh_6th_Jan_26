@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 6_12th-jan_2026\\q1_handson\\removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|solutionrelative:removeduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 6_12th-jan_2026\\q1_handson\\q1_handson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|solutionrelative:q1_handson.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 6_12th-jan_2026\\q1_handson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C2E301-76F1-486C-AFA3-C13FC7F59695}|Q1_HandsOn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q1_HandsOn",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\Q1_HandsOn.csproj",
+              "RelativeDocumentMoniker": "Q1_HandsOn.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\Q1_HandsOn.csproj",
+              "RelativeToolTip": "Q1_HandsOn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T09:00:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveDuplicates.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\RemoveDuplicates.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicates.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\RemoveDuplicates.cs",
+              "RelativeToolTip": "RemoveDuplicates.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:34:01.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 6_12th-Jan_2026\\Q1_HandsOn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA6wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:33:34.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

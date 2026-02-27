@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\checkleapyear\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|solutionrelative:leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\checkleapyear\\checkleapyear.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|solutionrelative:checkleapyear.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\checkleapyear\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AD4BBF-DF7C-4C49-A8D8-C4C85CB5A750}|CheckLeapYear.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckLeapYear",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\CheckLeapYear.csproj",
+              "RelativeDocumentMoniker": "CheckLeapYear.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\CheckLeapYear.csproj",
+              "RelativeToolTip": "CheckLeapYear.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T10:46:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeapYear.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\LeapYear.cs",
+              "RelativeDocumentMoniker": "LeapYear.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\LeapYear.cs",
+              "RelativeToolTip": "LeapYear.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:39:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\CheckLeapYear\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:39:00.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

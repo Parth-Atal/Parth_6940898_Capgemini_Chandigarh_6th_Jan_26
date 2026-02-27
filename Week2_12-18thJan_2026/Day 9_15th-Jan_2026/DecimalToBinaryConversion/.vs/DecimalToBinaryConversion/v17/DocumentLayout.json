@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\decimaltobinaryconversion\\dectobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|solutionrelative:dectobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\decimaltobinaryconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week2_12-19th jan_2026\\day 9_15th-jan_2026\\decimaltobinaryconversion\\decimaltobinaryconversion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{84C85223-0018-47A0-8C52-EB55AEBA0B09}|DecimalToBinaryConversion.csproj|solutionrelative:decimaltobinaryconversion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecimalToBinaryConversion",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\DecimalToBinaryConversion.csproj",
+              "RelativeDocumentMoniker": "DecimalToBinaryConversion.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\DecimalToBinaryConversion.csproj",
+              "RelativeToolTip": "DecimalToBinaryConversion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T10:10:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecToBin.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\DecToBin.cs",
+              "RelativeDocumentMoniker": "DecToBin.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\DecToBin.cs",
+              "RelativeToolTip": "DecToBin.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:01:08.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week2_12-19th Jan_2026\\Day 9_15th-Jan_2026\\DecimalToBinaryConversion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:29:12.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
