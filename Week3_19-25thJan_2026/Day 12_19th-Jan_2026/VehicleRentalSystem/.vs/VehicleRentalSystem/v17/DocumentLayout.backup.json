@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 12_19th-jan_2026\\vehiclerentalsystem\\vehiclerentalsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|solutionrelative:vehiclerentalsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 12_19th-jan_2026\\vehiclerentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 12_19th-jan_2026\\vehiclerentalsystem\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B1406B-1803-4E56-B3AE-F85293C6479B}|VehicleRentalSystem.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleRentalSystem",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\VehicleRentalSystem.csproj",
+              "RelativeDocumentMoniker": "VehicleRentalSystem.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\VehicleRentalSystem.csproj",
+              "RelativeToolTip": "VehicleRentalSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T17:57:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAywE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:20:21.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\VehicleRentalSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:54:16.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

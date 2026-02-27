@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\DelegateExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E992564-45AD-4D88-BB5B-D1DAA536AEDC}|DelegateExample.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 13_20th-jan_2026\\delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E992564-45AD-4D88-BB5B-D1DAA536AEDC}|DelegateExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E992564-45AD-4D88-BB5B-D1DAA536AEDC}|DelegateExample.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 13_20th-jan_2026\\delegateexample\\multiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E992564-45AD-4D88-BB5B-D1DAA536AEDC}|DelegateExample.csproj|solutionrelative:multiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiClass.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\DelegateExample\\MultiClass.cs",
+              "RelativeDocumentMoniker": "MultiClass.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\DelegateExample\\MultiClass.cs",
+              "RelativeToolTip": "MultiClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:20:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\DelegateExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\DelegateExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:20:06.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

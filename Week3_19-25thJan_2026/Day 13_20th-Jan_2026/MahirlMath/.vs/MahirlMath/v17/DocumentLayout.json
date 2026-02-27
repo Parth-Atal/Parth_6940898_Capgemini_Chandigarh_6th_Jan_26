@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\MahirlMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81910BB0-ACAC-4025-B321-DAFBA3B56C6B}|MahirlMath.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 13_20th-jan_2026\\mahirlmath\\usermaincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81910BB0-ACAC-4025-B321-DAFBA3B56C6B}|MahirlMath.csproj|solutionrelative:usermaincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81910BB0-ACAC-4025-B321-DAFBA3B56C6B}|MahirlMath.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 13_20th-jan_2026\\mahirlmath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81910BB0-ACAC-4025-B321-DAFBA3B56C6B}|MahirlMath.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMainCode.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\MahirlMath\\UserMainCode.cs",
+              "RelativeDocumentMoniker": "UserMainCode.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\MahirlMath\\UserMainCode.cs",
+              "RelativeToolTip": "UserMainCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:39:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\MahirlMath\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 13_20th-Jan_2026\\MahirlMath\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:39:26.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

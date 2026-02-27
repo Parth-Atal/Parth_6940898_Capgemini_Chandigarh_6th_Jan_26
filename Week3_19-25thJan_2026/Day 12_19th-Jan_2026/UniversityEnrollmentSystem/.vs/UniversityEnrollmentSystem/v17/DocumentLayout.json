@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\UniversityEnrollmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2A95E-F5BE-4EC7-9C4D-CABEA9CBA42B}|UniversityEnrollmentSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 12_19th-jan_2026\\universityenrollmentsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2A95E-F5BE-4EC7-9C4D-CABEA9CBA42B}|UniversityEnrollmentSystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2A95E-F5BE-4EC7-9C4D-CABEA9CBA42B}|UniversityEnrollmentSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week3_19-25th jan_2026\\day 12_19th-jan_2026\\universityenrollmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2A95E-F5BE-4EC7-9C4D-CABEA9CBA42B}|UniversityEnrollmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\UniversityEnrollmentSystem\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\UniversityEnrollmentSystem\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:11:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\UniversityEnrollmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week3_19-25th Jan_2026\\Day 12_19th-Jan_2026\\UniversityEnrollmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:05:49.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
