@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\studentgradecalculator\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|solutionrelative:gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\studentgradecalculator\\studentgradecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|solutionrelative:studentgradecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\studentgradecalculator\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|solutionrelative:gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}|..\\GradeCalculator.Tests\\GradeCalculator.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\gradecalculator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\studentgradecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834D758E-36D2-40F7-B337-9F04A44DACBB}|StudentGradeCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentGradeCalculator",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
+              "RelativeDocumentMoniker": "StudentGradeCalculator.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\StudentGradeCalculator.csproj",
+              "RelativeToolTip": "StudentGradeCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T06:56:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\GradeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GradeCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\GradeCalculatorTests.cs",
+              "RelativeToolTip": "GradeCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:57:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\GradeCalculator.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\GradeCalculator.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\GradeCalculator.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\GradeCalculator.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:56:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\GradeCalculator.cs",
+              "RelativeToolTip": "GradeCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:55:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\StudentGradeCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:55:21.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

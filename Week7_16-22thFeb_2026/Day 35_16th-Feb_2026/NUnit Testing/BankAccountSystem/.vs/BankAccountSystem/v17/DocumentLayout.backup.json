@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47DC62-A44F-477C-8C7C-438A229A0E96}|..\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\bankaccountsystem.tests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47DC62-A44F-477C-8C7C-438A229A0E96}|..\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\bankaccountsystem.tests\\bankaccountsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47DC62-A44F-477C-8C7C-438A229A0E96}|..\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\bankaccountsystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98BBB89-A896-4733-A76E-FD4A27F02699}|BankAccountSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\bankaccountsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98BBB89-A896-4733-A76E-FD4A27F02699}|BankAccountSystem.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98BBB89-A896-4733-A76E-FD4A27F02699}|BankAccountSystem.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\bankaccountsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98BBB89-A896-4733-A76E-FD4A27F02699}|BankAccountSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountSystem.Tests",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj",
+              "RelativeToolTip": "..\\BankAccountSystem.Tests\\BankAccountSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T06:47:13.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountSystem.Tests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\BankAccountTests.cs",
+              "RelativeToolTip": "..\\BankAccountSystem.Tests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:47:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BankAccountSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BankAccountSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:47:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:46:14.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\BankAccountSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:45:54.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

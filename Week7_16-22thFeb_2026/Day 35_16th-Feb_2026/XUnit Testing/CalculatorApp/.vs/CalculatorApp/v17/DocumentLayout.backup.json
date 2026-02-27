@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CED45BC-F0BF-429E-8D5C-C9A693719DDA}|..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CED45BC-F0BF-429E-8D5C-C9A693719DDA}|..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\calculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CED45BC-F0BF-429E-8D5C-C9A693719DDA}|..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\calculatorapp.tests\\calculatorapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F9D60B-1D25-4E77-BB91-57DED42D48D5}|CalculatorApp.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F9D60B-1D25-4E77-BB91-57DED42D48D5}|CalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F9D60B-1D25-4E77-BB91-57DED42D48D5}|CalculatorApp.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week7_16-22th feb_2026\\day 35_16th-feb_2026\\calculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F9D60B-1D25-4E77-BB91-57DED42D48D5}|CalculatorApp.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorApp.Tests",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "RelativeToolTip": "..\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T06:53:19.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "..\\CalculatorApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:53:45.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CalculatorApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:53:15.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:52:12.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week7_16-22th Feb_2026\\Day 35_16th-Feb_2026\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:51:57.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

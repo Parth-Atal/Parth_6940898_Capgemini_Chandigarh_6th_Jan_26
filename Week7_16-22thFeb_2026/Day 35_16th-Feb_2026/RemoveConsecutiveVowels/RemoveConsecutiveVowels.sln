@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveConsecutiveVowels", "RemoveConsecutiveVowels.csproj", "{A9E98172-0A91-400D-AC3E-CD48C4FB5B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E98172-0A91-400D-AC3E-CD48C4FB5B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E98172-0A91-400D-AC3E-CD48C4FB5B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E98172-0A91-400D-AC3E-CD48C4FB5B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E98172-0A91-400D-AC3E-CD48C4FB5B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D97BF2-45DB-461E-BCA2-1B3C36BED9B3}
+	EndGlobalSection
+EndGlobal

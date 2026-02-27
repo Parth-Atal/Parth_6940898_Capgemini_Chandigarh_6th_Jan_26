@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradeCalculator", "StudentGradeCalculator.csproj", "{834D758E-36D2-40F7-B337-9F04A44DACBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator.Tests", "..\GradeCalculator.Tests\GradeCalculator.Tests.csproj", "{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834D758E-36D2-40F7-B337-9F04A44DACBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834D758E-36D2-40F7-B337-9F04A44DACBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834D758E-36D2-40F7-B337-9F04A44DACBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834D758E-36D2-40F7-B337-9F04A44DACBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EC0715-BF8A-4BAF-8771-B69786FAFA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877927BA-A1CA-4666-9A7D-55CC68C2CAF0}
+	EndGlobalSection
+EndGlobal
