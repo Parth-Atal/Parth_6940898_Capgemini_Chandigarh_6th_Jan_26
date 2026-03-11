@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LibraryManagement.Models.BookBorrower>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Borrowed Books</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Borrow Book</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Book</th>
+            <th>Borrower</th>
+            <th>Borrow Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Book.Title</td>
+                <td>@item.Borrower.FullName</td>
+                <td>@item.BorrowDate?.ToShortDateString()</td>
+
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-bookId="@item.BookId"
+                       asp-route-borrowerId="@item.BorrowerId"
+                       class="btn btn-sm btn-warning">Edit</a>
+
+                    <a asp-action="Details"
+                       asp-route-bookId="@item.BookId"
+                       asp-route-borrowerId="@item.BorrowerId"
+                       class="btn btn-sm btn-info">Details</a>
+
+                    <a asp-action="Delete"
+                       asp-route-bookId="@item.BookId"
+                       asp-route-borrowerId="@item.BorrowerId"
+                       class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+
+</table>

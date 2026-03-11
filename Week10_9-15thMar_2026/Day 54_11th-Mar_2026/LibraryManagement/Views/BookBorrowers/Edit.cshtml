@@ -1,0 +1,53 @@
+﻿@model LibraryManagement.Models.BookBorrower
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Book Borrower</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+
+            ```
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="BookId" />
+            <input type="hidden" asp-for="BorrowerId" />
+
+            <div class="form-group mb-3">
+                <label class="control-label">Book</label>
+                <input class="form-control" value="@Model.Book.Title" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Borrower</label>
+                <input class="form-control" value="@Model.Borrower.FullName" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="BorrowDate" class="control-label"></label>
+                <input asp-for="BorrowDate" class="form-control" type="date" />
+                <span asp-validation-for="BorrowDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+
+        </form>
+    </div>
+    ```
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
