@@ -1,0 +1,44 @@
+﻿@model IEnumerable<UniversityMS.Models.Enrollment>
+@{
+    ViewData["Title"] = "Enrollments";
+}
+
+<h2>Enrollments</h2>
+<p><a asp-action="Create" class="btn btn-primary">+ New Enrollment</a></p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Student</th>
+            <th>Course</th>
+            <th>Grade</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.EnrollmentId</td>
+                <td>@e.Student?.FullName</td>
+                <td>@e.Course?.Title</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(e.Grade))
+                    {
+                        <span class="badge bg-success fs-6">@e.Grade</span>
+                    }
+                    else
+                    {
+                        <span class="text-muted">Not graded</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@e.EnrollmentId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@e.EnrollmentId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@e.EnrollmentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

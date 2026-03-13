@@ -1,0 +1,49 @@
+﻿@model IEnumerable<UniversityMS.Models.Student>
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h2>Students</h2>
+<p><a asp-action="Create" class="btn btn-primary">+ New Student</a></p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Enrolled</th>
+            <th>Courses &amp; Grades</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.FullName</td>
+                <td>@s.Email</td>
+                <td>@s.EnrollmentDate.ToShortDateString()</td>
+                <td>
+                    @if (s.Enrollments != null && s.Enrollments.Any())
+                    {
+                        <ul class="mb-0">
+                            @foreach (var e in s.Enrollments)
+                            {
+                                <li>@e.Course?.Title — <strong>@(e.Grade ?? "N/A")</strong></li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No courses</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@s.StudentId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@s.StudentId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@s.StudentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

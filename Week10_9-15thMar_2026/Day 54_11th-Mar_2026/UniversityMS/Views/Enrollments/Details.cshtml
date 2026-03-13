@@ -1,0 +1,32 @@
+﻿@model UniversityMS.Models.Enrollment
+@{
+    ViewData["Title"] = "Enrollment Details";
+}
+
+<h2>Enrollment Details</h2>
+<hr />
+<dl class="row">
+    <dt class="col-sm-3">Student</dt>
+    <dd class="col-sm-9">@Model.Student?.FullName</dd>
+
+    <dt class="col-sm-3">Course</dt>
+    <dd class="col-sm-9">@Model.Course?.Title</dd>
+
+    <dt class="col-sm-3">Credits</dt>
+    <dd class="col-sm-9">@Model.Course?.Credits</dd>
+
+    <dt class="col-sm-3">Grade</dt>
+    <dd class="col-sm-9">
+        @if (!string.IsNullOrEmpty(Model.Grade))
+        {
+            <span class="badge bg-success fs-5">@Model.Grade</span>
+        }
+        else
+        {
+            <span class="text-muted">Not graded yet</span>
+        }
+    </dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.EnrollmentId" class="btn btn-primary">Edit Grade</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

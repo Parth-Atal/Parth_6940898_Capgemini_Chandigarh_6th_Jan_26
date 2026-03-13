@@ -1,0 +1,46 @@
+﻿@model UniversityMS.Models.Enrollment
+@{
+    ViewData["Title"] = "Edit Enrollment";
+}
+
+<h2>Edit Enrollment</h2>
+<hr />
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="EnrollmentId" />
+
+            <div class="mb-3">
+                <label asp-for="StudentId" class="form-label">Student</label>
+                <select asp-for="StudentId"
+                        asp-items="ViewBag.StudentId"
+                        class="form-select">
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CourseId" class="form-label">Course</label>
+                <select asp-for="CourseId"
+                        asp-items="ViewBag.CourseId"
+                        class="form-select">
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Grade" class="form-label">Grade</label>
+                <select asp-for="Grade" class="form-select">
+                    <option value="">-- Not graded yet --</option>
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                    <option value="C">C</option>
+                    <option value="D">D</option>
+                    <option value="F">F</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+</div>

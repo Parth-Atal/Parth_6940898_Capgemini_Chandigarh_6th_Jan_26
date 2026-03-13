@@ -1,0 +1,58 @@
+﻿@model UniversityMS.Models.Course
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<h2>@Model.Title</h2>
+<dl class="row">
+    <dt class="col-sm-3">Credits</dt>
+    <dd class="col-sm-9">
+        <span class="badge bg-info text-dark fs-6">@Model.Credits</span>
+    </dd>
+
+    <dt class="col-sm-3">Instructor</dt>
+    <dd class="col-sm-9">@Model.Instructor?.Name</dd>
+</dl>
+
+<h4>Enrolled Students</h4>
+@if (Model.Enrollments != null && Model.Enrollments.Any())
+{
+    <table class="table table-sm table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>#</th>
+                <th>Student Name</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int row = 1;
+            }
+            @foreach (var e in Model.Enrollments)
+            {
+                <tr>
+                    <td>@(row++)</td>
+                    <td>@e.Student?.FullName</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(e.Grade))
+                        {
+                            <span class="badge bg-success">@e.Grade</span>
+                        }
+                        else
+                        {
+                            <span class="text-muted">Not graded</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-muted">No students enrolled in this course yet.</p>
+}
+
+<a asp-action="Edit" asp-route-id="@Model.CourseId" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

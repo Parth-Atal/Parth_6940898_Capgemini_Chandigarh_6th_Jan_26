@@ -1,0 +1,22 @@
+﻿@model UniversityMS.Models.Enrollment
+@{
+    ViewData["Title"] = "Remove Enrollment";
+}
+
+<h2>Remove Enrollment</h2>
+<p class="text-danger fw-bold">Are you sure you want to remove this enrollment?</p>
+
+<dl class="row">
+    <dt class="col-sm-3">Student</dt>
+    <dd class="col-sm-9">@Model.Student?.FullName</dd>
+    <dt class="col-sm-3">Course</dt>
+    <dd class="col-sm-9">@Model.Course?.Title</dd>
+    <dt class="col-sm-3">Grade</dt>
+    <dd class="col-sm-9">@(Model.Grade ?? "Not graded")</dd>
+</dl>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="EnrollmentId" />
+    <button type="submit" class="btn btn-danger">Confirm Remove</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
