@@ -1,0 +1,20 @@
+﻿@model StudentManagementApp.Models.Student
+
+<h2>Student Details</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<div class="card p-3 shadow">
+
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+
+</div>
+
+<br />
+
+<a asp-action="Register" class="btn btn-primary">Register Another</a>

@@ -1,0 +1,51 @@
+﻿@model EmployeePortalApp.Models.Employee
+
+@{
+    ViewData["Title"] = "Register Employee";
+}
+
+<h2>Register Employee</h2>
+
+<form asp-action="Register" method="post">
+
+    <div>
+        <label>Name</label><br />
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Age</label><br />
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Email</label><br />
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Department</label><br />
+        <input asp-for="Department" class="form-control" />
+        <span asp-validation-for="Department" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Register</button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

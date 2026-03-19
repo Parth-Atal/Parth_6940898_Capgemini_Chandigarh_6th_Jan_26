@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<hr />
+
+<h3>Welcome, @ViewBag.User</h3>
+
+<br />
+
+<a asp-controller="HR" asp-action="Index" class="btn btn-primary">
+    Go to HR Module
+</a>
+
+<br />
+<br />
+
+<a asp-action="Logout" class="btn btn-danger">
+    Logout
+</a>

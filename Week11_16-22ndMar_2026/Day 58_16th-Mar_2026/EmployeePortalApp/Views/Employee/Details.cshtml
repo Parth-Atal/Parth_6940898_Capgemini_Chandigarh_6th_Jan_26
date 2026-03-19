@@ -1,0 +1,24 @@
+﻿@model EmployeePortalApp.Models.Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+@if (TempData["Success"] != null)
+{
+    <p style="color:green">@TempData["Success"]</p>
+}
+
+<hr />
+
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Age:</strong> @Model.Age</p>
+<p><strong>Email:</strong> @Model.Email</p>
+<p><strong>Department:</strong> @Model.Department</p>
+
+<br />
+
+<a asp-action="Register" class="btn btn-primary">Register Another</a>
+<a asp-action="Index" class="btn btn-secondary">Back to Home</a>

@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "HR Dashboard";
+}
+
+<h2>HR Dashboard</h2>
+
+<hr />
+
+<a asp-action="EmployeeList" class="btn btn-primary">
+    View Employee List
+</a>
+
+<br />
+<br />
+
+<a asp-action="Reports" class="btn btn-danger">
+    Generate Reports (Test Exception)
+</a>
+
+<br />
+<br />
+
+<a asp-controller="Employee" asp-action="Index" class="btn btn-secondary">
+    Back to Employee Home
+</a>

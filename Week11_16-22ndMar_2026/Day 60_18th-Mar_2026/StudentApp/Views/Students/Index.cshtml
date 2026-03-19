@@ -1,0 +1,66 @@
+﻿@model IEnumerable<StudentApp.Models.Student>
+
+<div class="container mt-4">
+    <h2 class="text-center">Student Management</h2>
+
+    <button class="btn btn-primary mb-3" onclick="openCreateModal()">Add Student</button>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Course</th>
+                <th>Joining Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Name</td>
+                    <td>@s.Email</td>
+                    <td>@s.Course</td>
+                    <td>@s.JoiningDate.ToShortDateString()</td>
+                    <td>
+                        <button class="btn btn-warning btn-sm" onclick="openEditModal(@s.Id)">Edit</button>
+                        <button class="btn btn-danger btn-sm" onclick="deleteStudent(@s.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="modalContainer"></div>
+
+@section Scripts {
+    <script>
+        function openCreateModal() {
+            fetch('/Students/Edit/0')
+                .then(res => res.text())
+                .then(html => {
+                    document.getElementById("modalContainer").innerHTML = html;
+                    new bootstrap.Modal(document.getElementById('studentModal')).show();
+                });
+        }
+
+        function openEditModal(id) {
+            fetch('/Students/Edit/' + id)
+                .then(res => res.text())
+                .then(html => {
+                    document.getElementById("modalContainer").innerHTML = html;
+                    new bootstrap.Modal(document.getElementById('studentModal')).show();
+                });
+        }
+
+        function deleteStudent(id) {
+            if (confirm("Delete this student?")) {
+                fetch('/Students/Delete/' + id, { method: 'POST' })
+                    .then(() => location.reload());
+            }
+        }
+    </script>
+}

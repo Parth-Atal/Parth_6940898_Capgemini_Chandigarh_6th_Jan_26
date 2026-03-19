@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <p style="color:green">@TempData["SuccessMessage"]</p>
+}
+
+<p>Student Registered Successfully!</p>
+
+<p><strong>Student ID:</strong> @ViewBag.StudentId</p>
+
+<a asp-action="Register">Register Another Student</a>

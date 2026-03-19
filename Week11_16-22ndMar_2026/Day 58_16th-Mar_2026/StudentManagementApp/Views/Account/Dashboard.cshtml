@@ -1,0 +1,19 @@
+﻿<h2>Dashboard</h2>
+
+<div class="card p-4 shadow">
+
+    <h4>Welcome, @ViewBag.User</h4>
+
+    <hr />
+
+    <a asp-controller="Product" asp-action="Index" class="btn btn-success">
+        Manage Products
+    </a>
+
+    <br /><br />
+
+    <a asp-action="Logout" class="btn btn-danger">
+        Logout
+    </a>
+
+</div>
