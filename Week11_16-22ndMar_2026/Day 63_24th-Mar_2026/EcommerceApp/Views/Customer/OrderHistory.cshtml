@@ -1,0 +1,41 @@
+﻿@model Customer
+
+<h2 class="mb-4">📦 @Model.Name's Orders</h2>
+
+@if (Model.Orders == null || !Model.Orders.Any())
+{
+    <div class="alert alert-info">No orders found.</div>
+}
+else
+{
+    @foreach (var order in Model.Orders)
+    {
+        <div class="card mb-4 p-3">
+
+            <div class="d-flex justify-content-between">
+                <h5>Order #@order.OrderId</h5>
+                <span class="badge bg-secondary">@order.OrderDate.ToShortDateString()</span>
+            </div>
+
+            <hr />
+
+            <ul class="list-group mb-3">
+                @foreach (var item in order.OrderItems)
+                {
+                    <li class="list-group-item d-flex justify-content-between">
+                        @item.Product.Name
+                        <span class="badge bg-primary">Qty: @item.Quantity</span>
+                    </li>
+                }
+            </ul>
+
+            <div class="d-flex justify-content-between">
+                <strong>Status:</strong>
+                <span class="badge @(order.ShippingDetail?.Status == "Pending" ? "bg-warning" : "bg-success")">
+                    @order.ShippingDetail?.Status
+                </span>
+            </div>
+
+        </div>
+    }
+}

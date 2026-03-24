@@ -1,0 +1,39 @@
+﻿<h2 class="mb-4">📊 Admin Dashboard</h2>
+
+<div class="row">
+
+    <!-- Top Products -->
+    <div class="col-md-6">
+        <div class="card p-3">
+            <h4>🔥 Top Selling Products</h4>
+
+            <ul class="list-group">
+                @foreach (var p in ViewBag.TopProducts)
+                {
+                    <li class="list-group-item d-flex justify-content-between">
+                        Product ID: @p.ProductId
+                        <span class="badge bg-success">@p.TotalSold sold</span>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+    <!-- Pending Orders -->
+    <div class="col-md-6">
+        <div class="card p-3">
+            <h4>🚚 Pending Shipments</h4>
+
+            <ul class="list-group">
+                @foreach (var o in ViewBag.PendingOrders)
+                {
+                    <li class="list-group-item">
+                        Order ID: @o.OrderId
+                        <span class="badge bg-warning">Pending</span>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+
+</div>

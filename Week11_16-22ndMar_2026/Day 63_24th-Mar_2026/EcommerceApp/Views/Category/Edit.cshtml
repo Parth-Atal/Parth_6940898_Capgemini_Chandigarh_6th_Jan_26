@@ -1,0 +1,19 @@
+﻿@model Category
+
+<h2>Edit Category</h2>
+
+<div class="card p-4 w-50">
+    <form method="post">
+
+        <input type="hidden" asp-for="CategoryId" />
+
+        <div class="mb-3">
+            <label class="fw-bold">Category Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <button class="btn btn-warning">Update</button>
+        <a href="/Category" class="btn btn-secondary">Cancel</a>
+
+    </form>
+</div>

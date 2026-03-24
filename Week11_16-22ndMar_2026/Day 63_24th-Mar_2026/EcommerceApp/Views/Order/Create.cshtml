@@ -1,0 +1,75 @@
+﻿<h2>Create Order</h2>
+
+<div class="card p-4">
+
+    <form method="post">
+
+        <div class="mb-3">
+            <label>Customer</label>
+            <select name="customerId" class="form-select">
+                @foreach (var c in ViewBag.Customers)
+                {
+                    <option value="@c.CustomerId">@c.Name</option>
+                }
+            </select>
+        </div>
+
+        <h5>Products</h5>
+
+        <div id="productContainer">
+            <div class="row mb-2 product-row">
+                <div class="col-md-6">
+                    <select name="productIds" class="form-select">
+                        <option value="">-- Select Product --</option>
+                        @foreach (var p in ViewBag.Products)
+                        {
+                            <option value="@p.ProductId">@p.Name</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="col-md-3">
+                    <input type="number" name="quantities" class="form-control" placeholder="Qty" min="1" />
+                </div>
+
+                <div class="col-md-3">
+                    <button type="button" class="btn btn-danger w-100" onclick="removeRow(this)">Remove</button>
+                </div>
+            </div>
+        </div>
+
+        <button type="button" class="btn btn-secondary mt-2" onclick="addProduct()">+ Add More</button>
+
+        <div class="mb-3 mt-3">
+            <label>Shipping Address</label>
+            <textarea name="address" class="form-control"></textarea>
+        </div>
+
+        <button class="btn btn-primary">Place Order</button>
+
+    </form>
+
+</div>
+
+<script>
+    function addProduct() {
+        let container = document.getElementById("productContainer");
+        let newRow = document.querySelector(".product-row").cloneNode(true);
+
+        // Clear values
+        newRow.querySelector("select").selectedIndex = 0;
+        newRow.querySelector("input").value = "";
+
+        container.appendChild(newRow);
+    }
+
+    function removeRow(button) {
+        let row = button.closest(".product-row");
+        let container = document.getElementById("productContainer");
+
+        // Prevent removing last row
+        if (container.children.length > 1) {
+            row.remove();
+        }
+    }
+</script>

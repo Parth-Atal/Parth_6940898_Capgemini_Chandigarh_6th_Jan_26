@@ -1,0 +1,20 @@
+﻿@{
+    var role = ViewBag.Role;
+}
+
+<h2 class="text-success">✅ Login Successful</h2>
+
+<div class="card p-4 mt-3">
+    <p>You are logged in as:</p>
+
+    @if (role == "Admin")
+    {
+        <h4 class="text-danger">👑 Admin</h4>
+    }
+    else
+    {
+        <h4 class="text-primary">👤 User</h4>
+    }
+
+    <a href="/" class="btn btn-primary mt-3">Go to Home</a>
+</div>

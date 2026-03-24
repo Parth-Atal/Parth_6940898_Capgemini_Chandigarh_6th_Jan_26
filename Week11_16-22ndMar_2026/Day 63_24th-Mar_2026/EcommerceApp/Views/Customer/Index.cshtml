@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Customer>
+
+<h2 class="mb-4">👤 Customers</h2>
+
+<div class="row">
+    @foreach (var c in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card p-3">
+                <h5 class="fw-bold">@c.Name</h5>
+                <p class="text-muted">@c.Email</p>
+
+                <div class="d-flex justify-content-between mt-3">
+                    <a href="/Customer/OrderHistory/@c.CustomerId" class="btn btn-sm btn-info text-white">Orders</a>
+                    <a href="/Customer/Edit/@c.CustomerId" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="/Customer/Delete/@c.CustomerId" class="btn btn-sm btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<a href="/Customer/Create" class="btn btn-primary">+ Add Customer</a>

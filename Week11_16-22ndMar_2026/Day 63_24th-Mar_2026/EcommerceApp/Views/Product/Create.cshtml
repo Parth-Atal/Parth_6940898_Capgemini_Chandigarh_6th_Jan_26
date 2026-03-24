@@ -1,0 +1,30 @@
+﻿@model Product
+
+<h2>Add Product</h2>
+
+<div class="card p-4 w-50">
+    <form method="post">
+
+        <div class="mb-3">
+            <label>Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Price</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Category</label>
+            <select asp-for="CategoryId" class="form-select">
+                @foreach (var cat in ViewBag.Categories)
+                {
+                    <option value="@cat.CategoryId">@cat.Name</option>
+                }
+            </select>
+        </div>
+
+        <button class="btn btn-success">Save</button>
+    </form>
+</div>
