@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week12_23-29thmar_2026\\day 67_28th-mar_2026\\eventbookingsystem\\eventbooking.web\\pages\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|solutionrelative:pages\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week12_23-29thmar_2026\\day 67_28th-mar_2026\\eventbookingsystem\\eventbooking.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|c:\\users\\parth\\source\\repos\\capgemini_cu_sec3_.netwithazure_parthatal\\week12_23-29thmar_2026\\day 67_28th-mar_2026\\eventbookingsystem\\eventbooking.web\\pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DFDC534-684B-6945-C37F-3984018DAE5F}|EventBooking.Web.csproj|solutionrelative:pages\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\Pages\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MyBookings.cshtml",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\Pages\\MyBookings.cshtml",
+              "RelativeToolTip": "Pages\\MyBookings.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T06:32:05.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-28T06:31:44.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\Pages\\Events.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Events.cshtml",
+              "ToolTip": "C:\\Users\\Parth\\source\\repos\\Capgemini_CU_Sec3_.NetwithAzure_ParthAtal\\Week12_23-29thMar_2026\\Day 67_28th-Mar_2026\\EventBookingSystem\\EventBooking.Web\\Pages\\Events.cshtml",
+              "RelativeToolTip": "Pages\\Events.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T06:31:26.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

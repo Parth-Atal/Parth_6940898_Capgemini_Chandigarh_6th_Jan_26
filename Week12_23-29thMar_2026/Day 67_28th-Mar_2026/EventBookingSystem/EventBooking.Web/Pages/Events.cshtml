@@ -1,0 +1,51 @@
+
+@page
+@model EventBooking.Web.Pages.EventsModel
+@{
+    ViewData["Title"] = "Browse Events";
+}
+
+<h2 class="mb-4"><i class="bi bi-calendar3"></i> Available Events</h2>
+
+<!-- Booking Modal -->
+<div class="modal fade" id="bookingModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title">Book Tickets</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div id="bookingAlert" class="alert d-none"></div>
+                <p><strong id="modalEventTitle"></strong></p>
+                <p class="text-muted">Available Seats: <span id="modalAvailableSeats" class="badge bg-success"></span></p>
+                <input type="hidden" id="modalEventId"/>
+                <div class="mb-3">
+                    <label class="form-label">Number of Seats</label>
+                    <input type="number" id="seatsInput" class="form-control" min="1" placeholder="Enter seats"/>
+                    <div class="invalid-feedback" id="seatsError"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button class="btn btn-primary" onclick="confirmBooking()">
+                    <i class="bi bi-check-circle"></i> Confirm Booking
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Events Grid -->
+<div class="row" id="eventsContainer">
+    <div class="col-12 text-center py-5">
+        <div class="spinner-border text-primary"></div>
+        <p class="mt-2">Loading events...</p>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+    loadEvents();
+</script>
+}
